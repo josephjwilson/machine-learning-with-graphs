@@ -1,4 +1,4 @@
-# Machine Learning with Graphs Graphs
+# Machine Learning with Graphs
 
 My notes and solutions for the Stanford University course of CS224W: Machine Learning with Graphs. I'm following the Fall 2023 edition.
 
